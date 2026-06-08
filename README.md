@@ -13,6 +13,7 @@ In this project I have worked on organizing,analyzing hospital building data, an
 Working on this project helped me understand hospital facility planning, room classification, department distribution, and space management concepts in addition to developing my data modeling skills.
 
 ## Dashboard
-![DataSet](DataSet.jbg)
-![Dashboard](Dashboard.jbg) (Dashboard_WallProtection_filter.jbg)
+![DataSet](Data_Set.jbg)
+![Dashboard](DashBoard.jbg) 
+![Dashboard_with_Filter](Dashboard_WallProtection_filter.jbg)
 

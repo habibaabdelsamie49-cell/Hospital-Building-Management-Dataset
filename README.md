@@ -12,8 +12,8 @@ In this project I have worked on organizing,analyzing hospital building data, an
 ## What I Learned
 Working on this project helped me understand hospital facility planning, room classification, department distribution, and space management concepts in addition to developing my data modeling skills.
 
-## Dashboard
+## DataSet
 ![DataSet](Data_Set.jpg)
-![Dashboard](DashBoard.jpg) 
-![Dashboard_with_Filter](Dashboard_WallProtection_Filter.jpg)
+## Dashboard
+![Dashboard](DashBoard.jpg) ![Dashboard_with_Filter](Dashboard_WallProtection_Filter.jpg)
 

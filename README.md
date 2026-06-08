@@ -15,5 +15,8 @@ Working on this project helped me understand hospital facility planning, room cl
 ## DataSet
 ![DataSet](Data_Set.jpg)
 ## Dashboard
-![Dashboard](DashBoard.jpg) ![Dashboard_with_Filter](Dashboard_WallProtection_Filter.jpg)
+<p align="center">
+  <img src="DashBoard.jpg" width="45%" />
+  <img src="Dashboard_WallProtection_Filter.jpg" width="45%" />
+</p>
 
